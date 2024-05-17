@@ -1,0 +1,3 @@
+https://realpython.com/sentiment-analysis-python/
+
+conda create -n sentiment_classifer python=3.10
